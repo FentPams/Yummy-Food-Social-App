@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77752&width=435&lines=A+playground+for+foodies!)](https://git.io/typing-svg)
 
 
-[![Watch the video](https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/youtube-circle.png)](https://youtu.be/nDDBTIaYFK8)
-
 <div  align="center"> 
   <img src="./ReadMeGraph/demo1.gif" width = "250" height = "500" alt="splash_demo" align=center />
   <img src="./ReadMeGraph/demo3.gif" width = "250" height = "500" alt="splash_demo" align=center />
 </div>
+
+:eyes: [Watch Video Demo](#youtube)
 
 ## When you open the app first time:
   > An easy user log-in system would pop up.
@@ -89,7 +89,10 @@
 
 ***
 ***
-## Youtube Video Demo
+## Youtube
+
+:point_down: click to play
+
 [![Watch the video](https://img.youtube.com/vi/nDDBTIaYFK8/maxresdefault.jpg)](https://youtu.be/nDDBTIaYFK8)
 ## About Team
 #### Team Leader
